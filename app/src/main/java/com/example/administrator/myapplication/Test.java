@@ -6,4 +6,5 @@ package com.example.administrator.myapplication;
 
 public class Test {
     private int age;
+    private int hehe;
 }
